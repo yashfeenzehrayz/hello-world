@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hi friends!
+Yashfeen here.
+I like java and love teaching others.
